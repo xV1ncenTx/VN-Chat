@@ -41,8 +41,8 @@ Do this
 ## Installation
 ### Manual
 - Before you do it backup your old chat.
-- Download the script and put it in this path - \resources\[cfx-default]\[gameplay].
+- Download the script and put it in this path - \resources \ [cfx-default] \ [gameplay].
 - You don't need to ensure your script on config.
 
-## Script forked and edited
+## Script edited
 credits [here](http://taptap.gigne.net/2020/08/no-pixel-chat.html#comments)
